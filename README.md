@@ -22,3 +22,5 @@ you can similarly push any days' work into github using the above command
 
 The default command for origin :
 git remote add origin https://github.com/arghadeep23/30daysofFlutter.git
+
+For creating any flutter project on VS Code : Type Ctrl+shift+P and then create a new flutter project in the relevant disk. 
